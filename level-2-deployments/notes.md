@@ -309,6 +309,8 @@ Pods zijn vervangbare instanties die door de Deployment worden beheerd.
 ```
 
 
+**In Kubernetes beschrijft een Deployment hoe iets moet zijn, en de ReplicaSet zorgt dat de werkelijkheid daaraan blijft voldoen door Pods te maken of te vervangen.**
+
 
 
 
