@@ -47,10 +47,6 @@ blijft de Service functioneren zonder onderbreking.
 
 <img alt="#" src="img.png" width="500">
 
-### Architectuuroverzicht
-
-<img src="img.png" width="500">
-
 Dit diagram toont de samenhang tussen de belangrijkste Kubernetes-componenten
 binnen één cluster.
 
